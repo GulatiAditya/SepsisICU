@@ -1,4 +1,4 @@
-# SesisICU
+# SepsisICU
 # Early-stage sepsis prediction from Intensive Care Unit (ICU) data (Work In Progress Due June 8, 2022)
 
 CS229 Machine Learning project by Aditya Gulati and Niveditha Lakshmi Narasimhan.
